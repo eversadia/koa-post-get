@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "koa": "^0.20.0",
+    "koa-route": "^2.4.1"
+  }
+}
